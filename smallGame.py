@@ -64,5 +64,5 @@ else:
   elif computer_choice < user_choice:
     print("You lose!")
   else:
-    print("Get the hell out of here,System crashed")
+    pass
 
