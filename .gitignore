@@ -11,6 +11,9 @@ __pycache__/
 # VS Code
 .vscode/
 
-# OS files
+# OS filesgit --version
 Thumbs.db
 .DS_Store
+
+# VS Code Code Runner
+tempCodeRunnerFile.pygit commit -m "Initial Python project structure"
